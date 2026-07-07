@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/retrobreado.malayan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/retrobreado.malayan/)
 
 ### Way to supporting me
-[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg)](https://www.buymeacoffee.com/retrobreado)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/retrobreado)
 
 #### What i will publishing in Github?
 - Free template for Web Design.
