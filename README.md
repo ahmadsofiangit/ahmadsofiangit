@@ -1,7 +1,5 @@
 ## Welcome to My Profile!👋 <img src="https://komarev.com/ghpvc/?username=ahmadsofiangit&color=brightgreen" alt="watching_count" /> <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dahmadsofiangit&longCache=true"/> 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ahmadsofiangit?cardType=level&theme=synthwave&fontFamily=Arima&preferLogin=false)](https://git.io/awesome-stats-card)
-
 ### Follow My Social Accounts
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Retro_breado)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/retrobreado)
@@ -24,6 +22,8 @@
 - Study Road Map ⚓
 
 <img width="312" height="436" alt="yoru-chainsaw-man" src="https://github.com/user-attachments/assets/b4ebd30d-d10c-43df-8adc-75dc17582a8b" />
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ahmadsofiangit?cardType=level&theme=synthwave&fontFamily=Arima&preferLogin=false)](https://git.io/awesome-stats-card)
 
 #### I'm Interested in 
 - Puzzle Games🎮🧩
