@@ -38,5 +38,8 @@
 - Books📚
 - Musics 🎵
 
-##### Operating System & Distro, That i love most. 💻
+##### Operating System & Distro, That i love most 💻
 [![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,debian)](https://skillicons.dev)
+
+##### My favortie text-editors 📑
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)
