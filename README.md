@@ -29,4 +29,5 @@
 - Learning📖
 - Cooking🍛
 - Sportbikes🏍️
-- Books 📚
+- Books📚
+- Musics 🎵
