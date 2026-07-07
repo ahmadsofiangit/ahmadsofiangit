@@ -1,5 +1,4 @@
-## Welcome to my profile! ![Uploading linux.svg…]()
-👋#FCC624
+## Welcome to my profile! 👋
 
 ### What i will publishing in Github?
 - Free template for Web Design.
