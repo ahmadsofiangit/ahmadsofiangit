@@ -37,3 +37,6 @@
 - Sportbikes🏍️
 - Books📚
 - Musics 🎵
+
+##### Operating System & Distro, That i love most. 💻
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,debian)](https://skillicons.dev)
