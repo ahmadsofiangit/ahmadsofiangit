@@ -1,6 +1,6 @@
 ## Welcome to my profile! 👋
 ### Follow My Social Accounts
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com)
+[![YouTube](https://img.shields.io/badge/Retro_breado-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com) [![Discord](https://img.shields.io/badge/retro_breado.yzf_15_lover.malayan-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ### Way to supporting me
 [![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg)](https://www.buymeacoffee.com/retrobreado)
