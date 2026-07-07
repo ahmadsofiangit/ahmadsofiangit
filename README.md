@@ -21,9 +21,9 @@
 - Free Courses List 🍎
 - Study Road Map ⚓
 
-<img width="312" height="436" alt="yoru-chainsaw-man" src="https://github.com/user-attachments/assets/b4ebd30d-d10c-43df-8adc-75dc17582a8b" />
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ahmadsofiangit?cardType=level&theme=synthwave&fontFamily=Arima&preferLogin=false)](https://git.io/awesome-stats-card)
+
+<img width="312" height="436" alt="yoru-chainsaw-man" src="https://github.com/user-attachments/assets/b4ebd30d-d10c-43df-8adc-75dc17582a8b" />
 
 #### I'm Interested in 
 - Puzzle Games🎮🧩
