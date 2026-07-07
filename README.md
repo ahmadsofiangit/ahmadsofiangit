@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/retrobreado.malayan/)
 [![TikTok](https://img.shields.io/badge/Tiktok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@retro_breado_personal)
 
-### Way to supporting me
+### Way to supporting me 💸
 <img width="128" height="128" alt="727036-y-hug-az" src="https://github.com/user-attachments/assets/6688720a-abb3-4e06-a9b6-767b87f65e35" />
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/retrobreado)
