@@ -13,5 +13,7 @@
 - Program Tools.
 - Programming Language Libraries.
 - Game Assets.
+- Report Template For Bug Hunting.
+- Code Templates.
 
 <img width="312" height="436" alt="yoru-chainsaw-man" src="https://github.com/user-attachments/assets/b4ebd30d-d10c-43df-8adc-75dc17582a8b" />
