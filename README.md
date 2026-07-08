@@ -1,6 +1,6 @@
 <img width="2000" height="1300" alt="welcome_github_typography" src="https://github.com/user-attachments/assets/4eff6596-5c63-4757-b4a9-08dd1c60855f" />
 
-## Welcome to My Profile!👋 <img src="https://komarev.com/ghpvc/?username=ahmadsofiangit&color=brightgreen" alt="watching_count" /> <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dahmadsofiangit&longCache=true"/> 
+## <img src="https://komarev.com/ghpvc/?username=ahmadsofiangit&color=brightgreen" alt="watching_count" /> <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dahmadsofiangit&longCache=true"/> 
 
 ### Follow My Social Accounts
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Retro_breado)
